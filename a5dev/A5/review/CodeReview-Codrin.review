@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="CodeReview">
+  <ReviewIssue id="GZTMU43H">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:04:42:941 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:27:41:676 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="5">src/addressBook/AddressBook.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.trivial</Severity>
+    <Summary>Justification</Summary>
+    <Description>You must add a justification why you ported over our AddressBook class.
+In your case it's pretty easy because they didn't have a proper contact list holder, it was pretty much a file viewer.
+See UserInterface.java for an example how to write a justification.
+If you need help with figuring out why, ask.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTN1054">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:10:04:408 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:27:26:463 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="1">src/dateAndTime/SystemTime.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.critical</Severity>
+    <Summary>Wrong file</Summary>
+    <Description>This is not the A4 final version of SystemTime.java.
+Check my email of where to get that version, or visit our group webpage and get the source files from there.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTN51HW">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:13:12:788 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:30:39:606 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="1">src/dateAndTime/SystemDate.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.critical</Severity>
+    <Summary>Wrong file</Summary>
+    <Description>This is not the A4 final version of SystemDate.java.
+Check my email of where to get that version, or visit our group webpage and get the source files from there.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTNV01D">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:33:23:953 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:55:08:258 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="18">src/addressBook/AddressBook.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>We no longer use serialization.</Summary>
+    <Description>Remove "implements Serializable".</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTNXCLO">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:35:13:548 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:55:02:996 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="1">src/addressBook/AddressBook.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not the A4 submitted version.</Summary>
+    <Description>This file is not the version we submitted in A4.
+Please check my email of where to get that version or go to the group website and download the source files.
+However, the only difference is the main() class, so you could instead just copy paste it.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO12K2">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:38:07:154 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:53:01:167 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="1">src/addressBook/AddressBookList.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.major</Severity>
+    <Summary>Not the A4 version.</Summary>
+    <Description>This file is not the version we submitted in A4.
+Please check my email of where to get that version or go to the group website and download the source files.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO39WZ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:39:50:003 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:31:31:450 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="1">src/addressBook/Contact.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.trivial</Severity>
+    <Summary>Formatting</Summary>
+    <Description>Move the package declaration after the file header documentation.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO4LT3">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:40:52:071 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:52:16:813 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="2">src/addressBook/Contact.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.trivial</Severity>
+    <Summary>Documentation is wrong</Summary>
+    <Description>It's .java instead of .cpp</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO60HE">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:41:57:746 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:51:55:686 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="10">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Need class doxygen.</Summary>
+    <Description>Remember that we make use of @brief too now.
+Check Trello for explanation or have a look at UserInterface.java.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO8H79">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:43:52:725 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-19 :: 21:13:49:244 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="34">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Remove method.</Summary>
+    <Description>No need for this constructor.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTO9C8X">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:44:32:961 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 23:36:25:826 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="26">src/addressBook/Contact.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>!C3</Summary>
+    <Description>Move variable declarations to the bottom of the class, but above main().</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOCMDP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:47:06:061 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:03:55:936 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="359">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong</Summary>
+    <Description>A validator has no business of setting a variable.
+Here you check length and characters.
+If length is bigger you fail.
+If regex fails you fail.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOFEC9">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:49:15:609 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:59:43:520 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="342">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong</Summary>
+    <Description>A validator has no business of setting a variable.
+Here you check length and characters.
+If length is bigger you fail.
+If regex fails you fail.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOFXVX">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:49:40:941 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-19 :: 00:52:07:594 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="523">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Improve test case</Summary>
+    <Description>This test shows the problems with your validators (which I have described in other issues).
+This test tries to set an invalid nickname.
+It should then try to get the nickname and check it.
+Test passes if you get the default nickname back.
+Test fails if you get anything else back, especially if you get the invalid nickname you tried to set.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOL1ET">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:53:38:789 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-19 :: 00:51:36:912 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="515">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOLDKB">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:53:54:539 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-19 :: 00:51:25:432 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="496">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOLPVD">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:54:10:489 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-19 :: 00:50:39:363 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="471">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOLY8V">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:54:21:343 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 18:25:02:623 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="389">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOMR5D">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:54:58:801 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:00:04:801 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="328">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong</Summary>
+    <Description>A validator has no business of setting a variable.
+Here you check length and characters.
+If length is bigger you fail.
+If regex fails you fail.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTONQG6">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:55:44:550 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 19:17:44:280 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="338">src/addressBook/Contact.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Needs validation</Summary>
+    <Description>URL should be validated.
+Create a validateURL method.
+I think we had a relevant regex in the A4 version.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOPE6I">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:57:01:962 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 18:23:53:914 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="306">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Needs validation</Summary>
+    <Description>Email should be validated.
+Create a validateEmail method.
+I think we had a regex for that in A4.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOR7N4">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 10:58:26:800 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 18:23:42:793 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="285">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Needs validation</Summary>
+    <Description>Email should be validated.
+Create a validateEmail method.
+I think we had a regex for that in A4.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOU1WT">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:00:39:341 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:03:08:403 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="320">src/addressBook/Contact.java</File>
+    <Type>item.type.label.optimization</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Duplicate code</Summary>
+    <Description>The validators for first and last name do the same thing.
+Do that in only one mehod, and make each one use it instead.
+The error messages can be assigned to the set accessors instead.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTOZKAF">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:04:56:439 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 21:34:42:736 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="390">src/addressBook/Contact.java</File>
+    <Type>item.type.label.suggestion</Type>
+    <Severity>item.severity.label.trivial</Severity>
+    <Summary>Nickname validation</Summary>
+    <Description>You might want to allow for nicknames to contain numbers as well.
+Underscores might be another thing to allow, if you think about internet nicknames.
+Modify the regex accordingly.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTP4O07">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:08:54:535 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:55:22:152 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="264">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Validate numbers</Summary>
+    <Description>Numbers should be validated.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTP5E8U">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:09:28:542 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:55:08:094 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="244">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Validate numbers</Summary>
+    <Description>Numbers should be validated.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTP672F">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:10:05:895 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:56:07:306 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="223">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Validate numbers</Summary>
+    <Description>Numbers should be validated.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTP6V8U">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:10:37:230 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 16:56:16:998 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="204">src/addressBook/Contact.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Validate numbers</Summary>
+    <Description>Numbers should be validated.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTP87U0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:11:40:200 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 22:08:44:745 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="21">src/addressBook/Contact.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>!C3</Summary>
+    <Description>Accessors method should be at the top.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPBI3H">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:14:13:469 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 15:53:39:122 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="26">src/addressBook/Contact.java</File>
+    <Type>item.type.label.irrelevant</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Unused variable</Summary>
+    <Description>Do we even need post code validation?
+Otherwise you need to find out what's the biggest post code on the planet.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPKMJR">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:21:19:143 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:52:50:025 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="1">src/addressBook/ContactController.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.severity.label.critical</Severity>
+    <Summary>Wrong file</Summary>
+    <Description>Where did you get this from?
+Header comment is wrong too.
+If you want to use our A4 code, get the latest version.
+If you want to use G5 code from AddContactView then beware it's a view &amp; controller combined.
+Remember to justify why you didn't use their code (pretty much the reason above).</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPPWOP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:25:25:561 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:55:068 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="478">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPQKYS">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:25:57:028 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:50:155 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="479">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPQXHS">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:26:13:264 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:44:888 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="480">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPRQZY">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:26:51:502 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:39:940 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="481">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPRYFJ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:01:135 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:35:683 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="482">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSEYJ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:22:555 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:31:194 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="483">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSHOO">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:26:088 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:24:698 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="484">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSJV2">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:28:910 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:19:239 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="485">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSM2Z">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:31:787 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:14:662 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="486">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSNN0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:33:804 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:10:094 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="487">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSP7T">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:35:849 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:50:05:222 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="488">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPST5D">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:40:945 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:58:614 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="489">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSVBX">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:43:773 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:52:767 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="490">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSXLV">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:46:723 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:47:784 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="491">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPSZMA">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:49:330 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:43:718 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="492">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPT2L5">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:53:177 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:39:868 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="493">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPT4II">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:27:55:674 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:35:808 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="494">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTPW0DT">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:30:10:289 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:31:705 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="477">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Not doxygen'd</Summary>
+    <Description>Every memeber variable must be documented.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ0UDK">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:33:55:784 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:21:678 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="266">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Remove magic numbers</Summary>
+    <Description>Replace magic numbers everywhere with symbolic constants.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ1S5A">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:34:39:550 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:17:479 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="266">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong accessing</Summary>
+    <Description>Do not touch member variables directly.
+Work through accessors.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ2S8D">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:35:26:317 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:12:802 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="242">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong accessing</Summary>
+    <Description>Do not touch member variables directly.
+Work through accessors.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ36DQ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:35:44:654 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:07:700 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="251">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Wrong accessing</Summary>
+    <Description>Do not touch member variables directly.
+Work through accessors.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ59XQ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:37:22:574 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:49:00:687 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="235">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Suggestion</Summary>
+    <Description>Might want to rename it to getUrlTextFieldText, to be in line with the others.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQ6L9N">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:38:23:915 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:48:49:009 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="29">src/addressBook/ContactView.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.major</Severity>
+    <Summary>Needs accessors</Summary>
+    <Description>Every member variable should have a set &amp; get accessor here.
+What you have so far is set &amp; get for the TEXT INSIDE the widget, so, they are not variable accessors.
+What you also need is set &amp; get for the widgets themselves.
+e.g.:
+public boolean setContentPanel(JPanel jp){m_ContentPanel=jp; return true;}
+public JPanel getContentPanel(){return m_ContentPanel;}</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQDDHA">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:43:40:414 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:59:54:465 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="32">src/UI/NavigationPanel.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Needs doxygen</Summary>
+    <Description>Add a detailed description about the class.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="GZTQEV90">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 11:44:50:100 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 18:08:31:364 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Codrin</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="15">src/DigitalOrganiser.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Needs doxygen</Summary>
+    <Description>Add a detailed description of the class.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+</Review>

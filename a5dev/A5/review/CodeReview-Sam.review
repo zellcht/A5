@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="CodeReview">
+  <ReviewIssue id="H09T8UDL">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:48:26:697 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:48:31:783 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Sam</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="292">src/ui/UserInterface.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary></Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>

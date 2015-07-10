@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="CodeReview">
+  <ReviewIssue id="H08K8P6W">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 21:48:37:256 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:39:16:579 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="65">src/digitalOrganiser/DigitalOrganiser.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>spelling in doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KBB6C">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 21:50:39:060 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:39:05:421 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="184">src/digitalOrganiser/DigitalOrganiser.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Spelling</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KHZFG">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 21:55:50:428 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:38:36:875 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="51">src/file/ContactFileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param name</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KIM4H">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 21:56:19:841 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:33:56:600 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="59">src/file/ContactFileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param name</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision>did not need one</Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KP3EW">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 22:01:22:184 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:44:43:642 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="181">src/file/EventFileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param</Summary>
+    <Description>in the doxygen there is @param c, whereas the parameter is actually an e in the code</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KQD7M">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 22:02:21:538 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:32:31:234 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="56">src/file/EventFileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param name</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08KR3Y4">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 22:02:56:188 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:32:00:796 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="61">src/file/EventFileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param name</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H08L34FC">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 22:12:16:680 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 14:31:14:256 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Ceris</ReviewerId>
+    <AssignedTo>Simon</AssignedTo>
+    <File line="155">src/file/FileManager.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@param fileName</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+</Review>

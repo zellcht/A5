@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="CodeReview">
+  <ReviewIssue id="H041QZIZ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 16:59:53:051 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:00:44:528 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="33">src/addressBook/AddressBook.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Needs @brief</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H041RNK0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:00:24:192 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:00:37:086 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="125">src/addressBook/AddressBook.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H041SP8O">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:01:13:032 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:01:22:771 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="138">src/addressBook/AddressBook.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H041T7XA">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:01:37:246 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:07:23:500 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="169">src/addressBook/AddressBook.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long + method needs doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H041ZE8B">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:06:25:355 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:06:34:564 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="175">src/addressBook/AddressBook.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0425501">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:10:53:329 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 15:56:38:496 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="10">src/addressBook/Contact.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>dont need to doxygen packages</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0429SPH">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:14:30:677 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 16:16:17:676 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="360">src/addressBook/Contact.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042A6NS">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:14:48:760 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 16:04:11:241 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="474">src/addressBook/Contact.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042AHUN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:15:03:263 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 16:04:50:275 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="504">src/addressBook/Contact.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042B1TH">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:15:29:141 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 16:05:17:304 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="530">src/addressBook/Contact.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>no space</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042BVRE">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:16:07:946 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:16:28:334 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="1">src/addressBook/ContactController.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>put doxygen above package decleration</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042DL3R">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:17:27:447 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:17:36:105 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="245">src/addressBook/ContactController.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042DW0G">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:17:41:584 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:17:50:234 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Yan</AssignedTo>
+    <File line="253">src/addressBook/ContactController.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042EO8J">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:18:18:163 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:18:46:813 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="1">src/addressBook/ContactTableFormat.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Dont know whose class this is, it needs to be doxygened + follow conventions</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042FPJ7">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:19:06:499 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:19:23:375 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="1">src/addressBook/ContactView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Needs doxygen for file</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042G7EP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:19:29:665 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:19:42:095 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="17">src/addressBook/ContactView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Needs doxygen for class</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042H3YN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:20:11:855 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:20:24:375 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="273">src/addressBook/ContactView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042MUEY">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:24:39:418 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:24:56:725 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="306">src/dateAndTime/SystemDate.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>needs @return</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H042P4EY">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:26:25:690 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 17:26:42:417 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Ceris</AssignedTo>
+    <File line="360">src/dateAndTime/SystemDate.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044Q6D0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:23:14:100 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:23:23:206 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="62">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044SERQ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:24:58:310 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:25:08:814 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="122">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line is too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044UFLN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:26:32:699 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:26:43:127 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="201">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>access using accessor</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044W5S7">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:27:53:287 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:28:09:243 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="251">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>access m_eventList using accessor</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044YG7Q">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:29:40:118 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:30:32:596 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="324">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Method needs to be doxygened, but why event have a method in the main method???</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H044ZR15">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:30:40:793 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:30:50:160 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="330">src/events/EventList.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0451K3N">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:32:05:123 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:32:24:936 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="96">src/events/EventController.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>give class an access modifier</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0453GST">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:33:34:157 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:33:45:681 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="171">src/events/EventController.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>give class access modifier</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0456Z63">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:36:17:931 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:36:29:721 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="42">src/events/DurationValidator.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Method should be lower case</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0457GQ2">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:36:40:682 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:36:49:943 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="69">src/events/DurationValidator.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Method should be lower case</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0457S2P">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:36:55:393 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:37:20:889 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="99">src/events/DurationValidator.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>method should be lowercase, same with all the rest of the methods in the class</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045COY8">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:40:44:624 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:54:44:427 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="55">src/events/EventView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>class need @author</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045HFB7">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:44:25:411 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:54:26:781 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="72">src/events/EventView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>why are all these protected????????</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision>Because they are not public</Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045OQJT">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:50:06:569 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:53:44:147 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="657">src/events/EventView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>line too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045QPOJ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:51:38:755 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:46:00:505 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="22">src/events/EventCategoryIcons.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>needs doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045UJYL">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:54:37:965 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:47:49:669 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="63">src/events/EventCategoryIcons.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>class needs doxygen</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045WX7W">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:56:28:460 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:22:16:541 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="17">src/testingFramework/TestData.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>needs @brief</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H045YZLG">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 18:58:04:852 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:47:07:364 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="68">src/testingFramework/TestData.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>method too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0462D2Q">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 19:00:42:290 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:12:22:491 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="166">src/ui/AboutWindow.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>method needs @param</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H0463FW3">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 19:01:32:595 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:12:11:446 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="236">src/ui/AboutWindow.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>method needs @param</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H046ENSO">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 19:10:16:056 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:11:07:481 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="282">src/ui/UserInterface.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary></Summary>
+    <Description>methods should not be called m_...</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H046F1PR">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-22 :: 19:10:34:095 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-25 :: 18:11:00:570 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Codrin</AssignedTo>
+    <File line="291">src/ui/UserInterface.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary></Summary>
+    <Description>methods should not be called m_...</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.closed</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09S40MW">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:16:41:912 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:46:19:485 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="7">src/views/CalendarButton.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Must comment file as well as class, you seem to have done file doxygen instead of class</Summary>
+    <Description>Put the current doxygen at the header of the file, and then comment the class</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09S5QC2">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:18:01:874 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:46:15:323 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="30">src/views/CalendarButton.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>@return finish</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09S65RP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:18:21:877 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:46:06:656 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="40">src/views/CalendarButton.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>access modifier</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09S6Y2X">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:18:58:569 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:46:02:842 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="34">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>again need to comment both file and class</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SAEIZ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:21:39:851 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:58:144 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="275">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>what does this method do, it dosent use parameters</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SAUXN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:22:01:115 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:53:143 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="285">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>doxygen has extra parameters</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SBKW0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:22:34:752 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:46:11:725 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="298">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>all caps is for symbollic constants, this is just a variable</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SD977">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:23:52:915 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:49:653 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="399">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>magic numbers</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SDZ1V">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:24:26:419 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:45:325 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="428">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>28 is a magic number</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SEG9C">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:24:48:720 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:40:517 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="432">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>9 is a magic number</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SFI6X">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:25:37:881 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:36:979 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="490">src/views/CalendarTableModel.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>doxygen comment too long</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SGOTB">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:26:33:119 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:32:364 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="18">src/views/TableGUIHandler.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>move file comment to top of file, class needs @author + @brief tags</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SILOP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:28:02:377 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:28:446 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="47">src/views/TableGUIHandler.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>i know its not implemented, but to be safe still git these an @param</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SJ662">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:28:28:922 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:23:100 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="53">src/views/TableGUIHandler.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>as above for all of these</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SJR7B">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:28:56:183 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:18:760 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="12">src/views/View.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Move doxygen to top of file, class needs @author, @brief, dont need to comment imports</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SL7OX">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:30:04:209 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:13:113 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="90">src/views/View.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>dont need @return tag, its a constructor</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SN7J7">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:31:37:315 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:07:969 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="16">src/views/YearView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>once again doxygen header and class</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SONJ2">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:32:44:702 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:47:14:428 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="49">src/views/YearView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>whats the point of this, why not just use supers setToDisplay?</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SQWII">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:34:29:658 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:45:03:773 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="155">src/views/YearView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>needs @param for the eventlist parameter and still see not reason for you to use an el, which is not the main el</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SSFNR">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:35:41:127 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:44:58:569 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="202">src/views/YearView.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>many magic numbers 10, 5, 5,2 etc</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="H09SU19S">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:36:55:792 BST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-26 :: 18:44:49:960 BST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Simon</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="14">src/views/YearViewGUIHandler.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>doxygen class and header</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>

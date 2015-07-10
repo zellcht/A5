@@ -1,0 +1,3 @@
+h1. The development repository
+
+h2. Check the @HOW TO@ folder to figure out how to import the project from the git folder into Eclipse.

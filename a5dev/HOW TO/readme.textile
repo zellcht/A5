@@ -1,0 +1,31 @@
+h1. Important: If you follow these instructions then %{color:red}changes in Eclipse = changes in the git folder!%
+
+h1. If you are uncomfortable, try this with the test repository at git@git.assembla.com:testcs230g7.git
+
+h3. Steps:
+
+# Clone the repository anywhere on your PC
+# Start Eclipse
+# Clipboard01
+# Clipboard02
+# Clipboard03: @if@ that thing pops up just press OK
+# Clipboard04: a new section appears in the lower left part of the Eclipse window
+# Clipboard05: hit browse
+# Clipboard06: browse to the location of where you cloned the repo in step 1
+# Clipboard07: hit search
+# Clipboard08
+# Clipboard09: that's a right click on the item in the @Git Repositories@ section
+# Clipboard10
+# Clipboard11
+# Clipboard12: a different look is fine too
+
+h3. Understand:
+
+* Whatever you change in Eclipse, it will change the git folder as well
+* You still must @push@ from the git folder, Eclipse didn't want to do it for me in my case
+* You can @commit@ from within Eclipse if you want to, I still recommend you do it from the git folder
+* If the git folder changes, Eclipse should update the imported project automatically or complain it's not up to date with the file system (quick F5 fixes it)
+* @Commit@ and @push@ as often as possible. If you build up alot of commits and then @push@, there is a possibility of a bad merge due to very outdated code.
+* Always @pull@ before starting to work and before committing.
+
+

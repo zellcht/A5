@@ -1,0 +1,11 @@
+To install and compile the files, double click on the "install.bat" file.
+This will install and compile the application to your desktop.
+
+To run the project, navigate to the folder called "cs235Group7a5" on the desktop.
+Open the folder and double click the "runProject.bat" file to run the project.
+
+For Unix/Linux distributions, use the install.sh and runProject.sh files to execute their function.
+Where the install.sh performs the duties install.bat, installing it in the Desktop folder in your home
+directory.
+runProject.sh will be located in the installed directory at the same level in the file system as the bat file
+would be.

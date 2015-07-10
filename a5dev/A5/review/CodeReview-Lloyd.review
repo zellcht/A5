@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="CodeReview">
+  <ReviewIssue id="GZU3OXRT">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-15 :: 17:56:34:937 GMT</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2012-03-18 :: 17:45:55:812 GMT</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>Lloyd</ReviewerId>
+    <AssignedTo>Sam</AssignedTo>
+    <File line="1">src/views/View.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.critical</Severity>
+    <Summary>Need date stuff</Summary>
+    <Description>I need the getDate and setDate in the final version of A4 for my classes to work.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
+    <Status>item.status.label.resolved</Status>
+  </ReviewIssue>
+</Review>

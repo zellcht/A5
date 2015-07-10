@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/mac_widgets-0.9.5.jar" sourcepath="C:/Users/momiji/Desktop/macwidgets/source/com.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/mac_widgets_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/forms-1.2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/forms_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/opencsv-2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/opencsv_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/date4j.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.date4j.net/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/jcalendar_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-validation-2.4.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/jgoodies_validation_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-common-1.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/jgoodies_common_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/glazedlists_java15-1.9-20111127.203634-11.jar" sourcepath="C:/Users/momiji/Desktop/glazedlists source/trunk/source.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/A5/lib/javadocs.zip!/glazedlists_javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
